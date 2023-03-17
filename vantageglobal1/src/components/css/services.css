@@ -1,0 +1,29 @@
+/*.jumbotron {
+    background-color: #01042eeb;
+}*/
+
+    .jumbotron h1 {
+        color: white;
+        padding: 48px 48px 32px 48px;
+        text-align: start;
+    }
+
+.jumbotron p{
+    color:white;
+    text-align:start;
+    padding-left:48px;
+}
+
+.containerServices .servicesHeader {
+    background-color: #01042eeb;
+    height: 450px;
+}
+
+.servicesBody{
+    background-color:white;
+}
+
+.serviceCardsRow{
+    position:relative;
+    top: -15%;
+}

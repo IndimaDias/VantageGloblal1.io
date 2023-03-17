@@ -1,0 +1,17 @@
+.fomrTitle{
+    font-size:32px;
+    text-align:center;
+    font-weight:bold;
+    margin-top : 16px;
+}
+
+.formContainer {
+    background-color: #01042eeb;
+    color:white;
+    margin-top:-50px;
+    padding-top:16px;
+}
+
+.formContainer .row{
+    margin : 20px 0;
+}

@@ -1,0 +1,11 @@
+.navButton{
+    margin : 10px;
+  
+
+}
+
+    .navButton a {
+        color: darkblue;
+        font-size: 20px;
+        font-weight: bold;
+    }

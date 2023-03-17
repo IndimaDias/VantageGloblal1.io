@@ -1,0 +1,16 @@
+.cardBlock {
+    width: 18rem;
+    text-align: left;
+    height: 20rem !important;
+    margin-bottom: 40px;
+}
+
+.cardTitle {
+    font-size: 28px !important;    
+}
+
+.card-text {
+    font-size: 18px;
+    margin-top: 16px;
+    line-height: 32px;
+}
